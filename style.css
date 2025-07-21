@@ -1316,7 +1316,7 @@ color:rgb(57, 119, 252); ;
   background-size: cover;
   position: relative;
 overflow:hidden;
-  height: 140vh;
+  height: auto;
 padding-bottom: 0vw;
 
 }
@@ -1326,7 +1326,8 @@ position: sticky;
 top: 0;
 left: 0;
 width: auto;
-height: 144vh;
+height: auto;
+  padding-bottom: 5vw;
 background-color: rgba(60, 186, 236, 0.7)
 }
 #eight h1 {
@@ -1371,7 +1372,7 @@ overflow:visible;
   padding: 10vw;
   width: 68vw;
   height: auto;
-  margin-bottom: 5vw;
+  margin-bottom: 20vw;
   background-color: white;
 }
 form p{
