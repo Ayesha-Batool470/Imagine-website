@@ -1164,22 +1164,24 @@ padding-right: 23vw;
 
 }
 .overlay {
+  display: flex;
+  flex-direction: row;
   position: absolute; 
- top: 74vw;
+ top: 72vw;
   background: rgb(0, 0, 0);
   background-color: rgb(57, 119, 252);
   color: #da2626; 
-  width: 80vw;
+  width: auto;
   transition: .5s ease;
   opacity:0;
   color: white;
   font-size: 10vw;
-  padding: 10px;
+  padding: 6.5vw 31vw;
   text-align: center;
-  
 }
 .overlay i{
-  font-size: 5vw;
+   font-size: 5vw;
+  padding: 2vw;
 }
 
 .fcard:hover .overlay {
@@ -1370,7 +1372,7 @@ overflow:visible;
   margin-bottom: 8vw;
   margin-top: 5vw;
   padding: 10vw;
-  width: 68vw;
+  width: 65vw;
   height: auto;
   margin-bottom: 20vw;
   background-color: white;
