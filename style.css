@@ -1323,7 +1323,7 @@ padding-bottom: 0vw;
 
 }
 .overly{
-  overflow:visible;
+  overflow:hidden;
 position: sticky;
 top: 0;
 left: 0;
@@ -1366,13 +1366,13 @@ input[type="submit"]:hover {
 }
 form {
 
-overflow:visible;
+overflow:hidden;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
    margin-left: 5vw; 
   margin-bottom: 8vw;
   margin-top: 5vw;
   padding: 10vw;
-  width: 65vw;
+  width: 62vw;
   height: auto;
   margin-bottom: 20vw;
   background-color: white;
