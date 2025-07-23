@@ -1134,7 +1134,7 @@ line-height: 7vw;
   padding-top: 5vw;
   margin-top: 5vw;
   margin: 0;
-  width: 95vw;
+  width: 90vw;
   margin-bottom: 20vw;
 
 }
@@ -1169,7 +1169,7 @@ padding-right: 23vw;
   background: rgb(0, 0, 0);
   background-color: rgb(57, 119, 252);
   color: #da2626; 
-  width: 85vw;
+  width: 80vw;
   transition: .5s ease;
   opacity:0;
   color: white;
