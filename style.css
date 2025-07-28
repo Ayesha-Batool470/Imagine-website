@@ -890,6 +890,7 @@ padding-right: 10vw;
   margin-top: 15vw;
   margin-bottom: 5vw;
   background-color: rgb(238, 236, 236);
+   position: relative;
 }
 .card .icon1 i {
   background-color: rgb(57, 154, 245);
@@ -898,7 +899,7 @@ padding-right: 10vw;
   height: 16vw;
   border-radius: 100vw;
   position: absolute;
-  top: 348vw;
+  top: -10vw;
   left: 38vw;
   text-align: center;
   justify-content: center;
